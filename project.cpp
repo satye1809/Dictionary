@@ -250,7 +250,7 @@ int main()
 {
 
        int a;
-        cout << "\nWhat would you like to do?\n";
+        cout << "\nWhat would you like to do? \n";
         cout << "\n";
         cout << "1. Insert a word.\n";
         cout << "2. Search a word.\n";
